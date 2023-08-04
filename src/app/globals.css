@@ -74,6 +74,7 @@ body{
     border-radius: 3px;
 }
 .task__description{
+    flex-grow: 1;
     margin: 20px 0;
     font-size: 1.2em;
 }
